@@ -1,5 +1,5 @@
 {
-  "name": "react-new-window",
+  "name": "react-new-window-a1",
   "description": "Pop a new window in React, using window.open API",
   "version": "0.1.3",
   "keywords": [
@@ -12,7 +12,8 @@
   "module": "es/react-new-window.js",
   "browser": "umd/react-new-window.js",
   "repository": "git@github.com:rmariuzzo/react-new-window.git",
-  "author": "Rubens Mariuzzo <rubens@mariuzzo.com>",
+  "repository": "git@github.com:usutani/react-new-window.git",
+  "author": "Yasuhiro Usutani <usutani@hey.com>",
   "license": "SEE LICENSE IN ./LICENSE",
   "files": [
     "lib",
