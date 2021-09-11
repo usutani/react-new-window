@@ -174,7 +174,7 @@ NewWindow.propTypes = {
   onUnload: PropTypes.func,
   onBlock: PropTypes.func,
   onOpen: PropTypes.func,
-  center: PropTypes.oneOf(['parent', 'screen']),
+  center: PropTypes.oneOf(['parent', 'screen', false]),
   copyStyles: PropTypes.bool
 }
 
