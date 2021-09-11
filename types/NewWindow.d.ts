@@ -60,7 +60,7 @@ declare module 'react-new-window' {
     /**
      * Indicate how to center the new window.
      */
-    center?: 'parent' | 'screen' | false
+    center?: 'parent' | 'screen'
 
     /**
      * If specified, copy styles from parent window's document.
